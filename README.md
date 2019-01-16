@@ -49,7 +49,7 @@ As part of your pre-work submission, please reflect on the app and answer the fo
 
 ## Notes
 
-Had trouble add a repository because the one suggested in the video was out of date.
+Had trouble add a repository because the one suggested in the video was out of date. Along with using the liceCap application to create a gif, had to create a video link instead.
 
 ## License
 

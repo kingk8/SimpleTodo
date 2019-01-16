@@ -31,7 +31,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='walkthrough.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
@@ -41,19 +41,19 @@ As part of your pre-work submission, please reflect on the app and answer the fo
 
 **Question 1:** "What are your reactions to the Android app development platform so far? Compare and contrast Android's approach to layouts and user interfaces in past platforms you've used."
 
-**Answer:** [Enter your answer here in a paragraph or two].
+**Answer:** [Compared to C++ method, android's approach to layouts and user interfaces is much easier to develop. Since everything is already premade for you to make use of. ]
 
 **Question 2:** "Take a moment to reflect on the `ArrayAdapter` used in your pre-work. How would you describe an adapter in this context and what is its function in Android? Why do you think the adapter is important? Explain the purpose of the `convertView` in the `getView` method of the `ArrayAdapter`."
 
-**Answer:** [Enter your answer here in a paragraph or two].
+**Answer:** [An adapter would be a function used to create a list, much like how we used it to make a list in the todo app. Its important because your able to create multiple items with similar value. Based on using the app the counterView method seems to keep count of the number of characters used.].
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Had trouble add a repository because the one suggested in the video was out of date.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2019] [Markino Samuels]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
